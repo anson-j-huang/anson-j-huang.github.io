@@ -1,9 +1,10 @@
 title: Anson Huang (he/him)
 logo: /assets/img/headshot.JPG
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-minimal
 github:
   is_user_page: true
   owner_url: https://github.com/ansonjhuang
+linkedin: https://www.linkedin.com/in/anson-j-huang/
+email: ansonh@cs.washington.edu
+resume: ./assets
